@@ -79,7 +79,7 @@ ul li:hover::before {
 }
 
 ul li:hover::after {
-  color: #F8DF83;
+  background: #F8DF83;
 }
 
 ul li:hover a {
